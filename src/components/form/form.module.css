@@ -1,0 +1,8 @@
+.styledForm{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 5% 25% 5% 25%;
+    background-color: antiquewhite;
+    border-color: beige solid 2px;
+}
